@@ -30,4 +30,36 @@ html {
 body {
   background-color: var(--clr-very-dark-blue);
   color: var(--clr-very-light-blue);
+  font-family: "Manrope", sans-serif;
+}
+
+.wrapper {
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  display: inherit;
+  justify-content: inherit;
+  align-items: inherit;
+  flex-direction: inherit;
+  flex-wrap: inherit;
+  gap: inherit;
+  z-index: inherit;
+}
+
+.rotate img {
+  animation: 2s ease-out rotate;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    /* transform: rotate(-360deg); */
+    transform: rotate(1260deg);
+  }
 }
