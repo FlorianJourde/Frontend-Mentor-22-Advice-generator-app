@@ -10,4 +10,4 @@ This is a solution to [Advice generator app](https://www.frontendmentor.io/solut
 
 Twenty se exercice from Frontend Mentor website. The purpose is to train myself to React framework by building projects.
 
-[![Preview site](https://img.shields.io/badge/Site%20web--e1e3f0?style=for-the-badge&logo=InternetExplorer&logoColor=white)](https://advice-generator-app-with-react-and.onrender.com/)
+[![Preview site](https://img.shields.io/badge/Site%20web--e1e3f0?style=for-the-badge&logo=InternetExplorer&logoColor=white)](https://florianjourde.github.io/Frontend-Mentor-22-Advice-generator-app/)
